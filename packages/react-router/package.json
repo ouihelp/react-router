@@ -1,5 +1,5 @@
 {
-  "name": "react-router",
+  "name": "@ouihelp/react-router",
   "version": "5.0.1",
   "description": "Declarative routing for React",
   "repository": "ReactTraining/react-router",

@@ -22,5 +22,29 @@
     "bundled": 61717,
     "minified": 21479,
     "gzipped": 7614
+  },
+  "esm/@ouihelp/react-router.js": {
+    "bundled": 23522,
+    "minified": 13316,
+    "gzipped": 3688,
+    "treeshaked": {
+      "rollup": {
+        "code": 2356,
+        "import_statements": 470
+      },
+      "webpack": {
+        "code": 3721
+      }
+    }
+  },
+  "umd/@ouihelp/react-router.js": {
+    "bundled": 101297,
+    "minified": 35856,
+    "gzipped": 11387
+  },
+  "umd/@ouihelp/react-router.min.js": {
+    "bundled": 62123,
+    "minified": 21612,
+    "gzipped": 7606
   }
 }
